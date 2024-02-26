@@ -187,6 +187,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 ## P - R
 
 - [PageVamp](https://www.pagevamp.com/) | Sanepa, Lalitpur | Create and Update Website from Facebook Page
+- [ Pagoda Labs Pvt. Ltd.](https://pagodalabs.com/) |Kumaripati Jagannath Marg 147, Lalitpur 44600 | Best Website, Software Development,SEO & It Company in Nepal
 - [Parewa Labs Pvt. Ltd.](https://parewalabs.com/) | Lazimpat, Kathmandu | Make products for Programming Enthusiasts
 - [Pathway Technologies and Services](https://pathway.com.np/) | Thapathali, Kathmandu | Solutions and services in the field of software development, business/knowledge process outsourcing as well as consultancy and advisory services on information and communication technologies
 - [Peace Nepal DOT Com P. Ltd.](https://peacenepal.com.np/) | Kupondole, Lalitpur | Website and Software Development, SEO, Web Hosting, Web Graphic and Logo Design
